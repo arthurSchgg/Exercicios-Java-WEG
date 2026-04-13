@@ -51,7 +51,6 @@ Repositório com exercícios e mini-projetos desenvolvidos durante o curso de Ja
 ### 🚀 Mini-Projetos
 | Pasta | Descrição |
 |---|---|
-| `ProjetoFutaria` | Sistema de gerenciamento de frutaria |
 | `ProjetoBibioteca` | Sistema de gerenciamento de biblioteca |
 | `Projeto` | Sistema de loja com estoque |
 | `AgendaDeContatos` | Agenda de contatos com herança |
