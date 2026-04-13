@@ -91,4 +91,4 @@ Repositório com exercícios e mini-projetos desenvolvidos durante o curso de Ja
 
 ## 👤 Autor
 
-Feito por **[Arthur Miguel Schlichting]** durante o curso de Java na WEG.
+Feito por **Arthur Miguel Schlichting** durante o curso de Java na WEG.
